@@ -1,0 +1,26 @@
+{
+  "name": "michael-george-portfolio",
+  "version": "1.0.0",
+  "description": "This is a repository that will hold the code for Michael George's Portfolio. It will be a react app that displays my resume, projects, about me, etc. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelageorge/portfolio-app.git"
+  },
+  "keywords": [
+    "portfolio",
+    "react",
+    "react-app"
+  ],
+  "author": "Michael Alan George",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelageorge/portfolio-app/issues"
+  },
+  "homepage": "https://github.com/michaelageorge/portfolio-app#readme",
+  "dependencies": {
+  }
+}
